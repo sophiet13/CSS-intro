@@ -1,0 +1,29 @@
+.done {
+	text-decoration: line-through;
+}
+
+#tomorrow li {
+	font-weight:bold;
+}
+
+#square {
+	width: 200px;
+	height: 200px;
+	background-color: #AABBCC;
+	padding: 50px;
+	border: 50px solid red;
+	margin:50px;
+}
+h1 {
+	color: red;
+	text-decoration: underline;
+	font-size: 60px;
+}
+
+ul li {
+	color: blue;
+}
+
+ol li {
+	color:green;
+}
